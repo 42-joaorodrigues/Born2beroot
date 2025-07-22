@@ -4,10 +4,6 @@
 ![System Administration Badge](https://img.shields.io/badge/Type-System%20Administration-red)
 ![Status Badge](https://img.shields.io/badge/Status-Completed-success)
 
-## Project Details
-
-For full project requirements, see the [Subject File](./subject.md).
-
 ## What I Learned
 
 Through this comprehensive system administration project at 42 School, I developed essential DevOps and infrastructure skills:
